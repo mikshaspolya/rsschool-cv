@@ -8,4 +8,10 @@
 - mikshaspolina@gmail
 - [my Vk](https://vk.com/mikshaspolya)
 
+## About me
 
+I want to be a programmer, because I feel that, this is my field of work. I have all the qualities, that a good programmer needs:
+
+- good mathematics skills
+- good english skills
+- teamwork skills
