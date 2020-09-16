@@ -23,3 +23,14 @@ I want to be a programmer, because I feel that, this is my field of work. I have
 - JavaScript
 
 ## I have no projects yet :(
+
+## Education:
+
+2020 - Online courses RS-School \
+2020 - 2024 - Belarusian State University of Informatics and Radio electronics(full-time, budgetary, now 1 course)\
+2017 - 2019 – Lyceum №2\
+2008 - 2017 - High school №87 (up to grade 9)
+
+## English:
+
+Intermediate (B1)
