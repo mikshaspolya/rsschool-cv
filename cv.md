@@ -15,3 +15,11 @@ I want to be a programmer, because I feel that, this is my field of work. I have
 - good mathematics skills
 - good english skills
 - teamwork skills
+
+## My skills
+
+- C/C++
+- HTML5/CSS3
+- JavaScript
+
+## I have no projects yet :(
