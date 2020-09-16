@@ -1,0 +1,11 @@
+# Mikshas Polina
+
+![my photo](https://sun9-22.userapi.com/S5JxldyRqyvaojC5TN-ZXK3IIyD16RehfR5GQQ/n4Lf8-kTB4Q.jpg)
+
+## Contact info
+
+- +375(44)-759-70-96
+- mikshaspolina@gmail
+- [my Vk](https://vk.com/mikshaspolya)
+
+
