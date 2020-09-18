@@ -1,0 +1,59 @@
+.name {
+  text-align: center;
+  background-color: rgb(232, 203, 227);
+  color: rgb(82, 74, 80);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 65px;
+}
+img {
+  height: 380px;
+  width: 300px;
+  margin: -20px 0px 0px 40px;
+  padding: 30px 30px 30px 30px;
+  border: medium dashed rgb(152, 126, 148);
+}
+.aboutMe {
+  float: right;
+  margin: -450px 550px 0px 540px;
+  color: rgb(82, 74, 80);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  text-shadow: 3px 5px 4px rgb(152, 126, 148);
+}
+.contacts {
+  float: right;
+  margin: -450px 100px 0px 0px;
+  color: rgb(82, 74, 80);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  text-shadow: 3px 5px 4px rgb(152, 126, 148);
+}
+.marker {
+  list-style-type: square;
+  text-shadow: 3px 5px 4px rgb(152, 126, 148);
+}
+.marker2 {
+  list-style-type: none;
+  text-shadow: 3px 5px 4px rgb(152, 126, 148);
+}
+.skills {
+  margin: 0px 0px 0px 80px;
+  color: rgb(82, 74, 80);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  text-shadow: 3px 5px 4px rgb(152, 126, 148);
+}
+.project {
+  margin: 0px 0px 0px 40px;
+  color: rgb(82, 74, 80);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+  text-shadow: 3px 5px 4px rgb(152, 126, 148);
+}
+.educ {
+  margin: -300px 100px 0px 670px;
+  color: rgb(82, 74, 80);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  text-shadow: 3px 5px 4px rgb(152, 126, 148);
+}
