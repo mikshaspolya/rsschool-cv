@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  background-color: #ffe0cf;
+}
+.name {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40px;
+  font-weight: bold;
+}
+.line {
+  display: flex;
+  align-items: center;
+}
+img {
+  max-width: 25vw;
+  margin: 0 5vw 2vh 13vw;
+}
+.aboutMe {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  border: 3px dashed #b84b0f;
+  border-radius: 10px;
+  padding: 20px;
+  width: 45vw;
+  margin: 4.5vw 12vw 4vw 0vw;
+  background-color: #ffccaf;
+}
+.column {
+  margin: 3vh 5vw 3vw 13vw;
+}
+.contacts {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 17px;
+  border: 3px dashed #b84b0f;
+  border-radius: 10px;
+  padding: 20px;
+  width: 22vw;
+  margin: 0vh;
+  background-color: #ffccaf;
+}
+.skills {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 17px;
+  border: 3px dashed #b84b0f;
+  border-radius: 10px;
+  padding: 20px;
+  width: 22vw;
+  margin: 2vh 0;
+  background-color: #ffccaf;
+}
+.educ {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 17px;
+  border: 3px dashed #b84b0f;
+  border-radius: 10px;
+  padding: 20px;
+  width: 45vw;
+  margin: 2vw 12vw 5vw 0vw;
+  background-color: #ffccaf;
+}
